@@ -1,0 +1,9 @@
+{
+  "name": "icvp-vod-server1",
+  "version": "0.0.1",
+  "description": "request all video of icvp by webrtc",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
