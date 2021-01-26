@@ -2,23 +2,10 @@
 
 ## Project setup
 ```
-yarn install
+进入server目录，运行yarn install/npm install
+安装完毕后使用node vodSrv.js 运行信令服务
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### 完整demo可访问https://www.hakulatata.cn:8081/www/index.html
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+需要打开两个页面才能看到效果：）
